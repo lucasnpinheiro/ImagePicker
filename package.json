@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-ImagePicker",
+  "version": "2.1.7",
+  "description": "An Image Picker plugin for Cordova",
+  "cordova": {
+    "id": "cordova-plugin-camera",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasnpinheiro/ImagePicker"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-plugin-ImagePicker",
+    "ImagePicker"
+  ],
+  "scripts": {
+  },
+  "author": "Apache Software Foundation",
+  "license": "Apache-2.0",
+  "engines": {
+  },
+  "devDependencies": {
+  }
+}
