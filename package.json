@@ -3,7 +3,7 @@
   "version": "2.1.7",
   "description": "An Image Picker plugin for Cordova",
   "cordova": {
-    "id": "cordova-plugin-camera",
+    "id": "com.synconset.imagepicker",
     "platforms": [
       "android",
       "ios"
@@ -16,6 +16,7 @@
   "keywords": [
     "cordova",
     "cordova-plugin-ImagePicker",
+    "com.synconset.imagepicker",
     "ImagePicker"
   ],
   "scripts": {
